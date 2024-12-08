@@ -19,8 +19,8 @@ s=np.linalg.inv(a)
 print(s)
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/596e2c43-b42a-4c5e-a40c-3e37a6f778e7)
-![image](https://github.com/user-attachments/assets/1654e4c3-ed65-425d-95d0-38e29c736158)
+![Screenshot (66)](https://github.com/user-attachments/assets/335e5952-a58a-4767-b569-06b9967d3b41)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
